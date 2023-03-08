@@ -11,16 +11,16 @@
 """
 
 first_question = "What is your favorite color?"
-first_question_answer = "Chartreuse"
+first_question_answer = ""
 
 second_question = "What is your favorite food?"
-second_question_answer = "Foie gras"
+second_question_answer = ""
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
-third_question_answer = "Scrooge McDuck"
+third_question_answer = ""
 
 fourth_question = "What is your favorite animal?"
-fourth_question_answer = "Chinchilla"
+fourth_question_answer = ""
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
-fifth_question_answer = "COBOL"
+fifth_question_answer = ""
