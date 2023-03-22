@@ -17,7 +17,7 @@ second_question = "What is your favorite food?"
 second_question_answer = "spicy food"
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
-third_question_answer = ""
+third_question_answer = "Dr Who"
 
 fourth_question = "What is your favorite animal?"
 fourth_question_answer = ""
