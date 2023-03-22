@@ -20,7 +20,7 @@ third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bu
 third_question_answer = "Dr Who"
 
 fourth_question = "What is your favorite animal?"
-fourth_question_answer = ""
+fourth_question_answer = "cat"
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
 fifth_question_answer = ""
